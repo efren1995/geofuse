@@ -1,0 +1,121 @@
+[2026-11-26 08:13:11] Testing GitHub token via GET /user...
+[2026-11-26 08:13:31] ERROR: GitHub /user token check failed (HTTP 000). ~/.git-credentials was not modified.
+[2026-11-26 08:13:31] Skipping git push because token/scope/repo pre-flight did not pass.
+[2026-11-26 08:13:31] WAIT_FOR_APK=1 enabled — polling every 10s up to 600s...
+ERR||Expecting value: line 1 column 1 (char 0)
+Release v1.0.0 has no uploaded APK assets yet (message: Not Found)
+[2026-11-26 08:14:12] Downloading geofuse-debug.apk to /sdcard/Download/geofuse-debug.apk...
+curl: (3) URL rejected: Malformed input to a URL function
+[2026-11-26 08:14:12] ERROR: Failed downloading geofuse-debug.apk from release v1.0.0.
+Run #7 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834344004
+Run #6 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834222706
+Run #5 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45832195293
+completed|failure|https://github.com/efren1995/geofuse/actions/runs/45834344004
+Release v1.0.0 has no uploaded APK assets yet (message: Not Found)
+[2026-11-26 08:14:23] Downloading geofuse-debug.apk to /sdcard/Download/geofuse-debug.apk...
+curl: (3) URL rejected: Malformed input to a URL function
+[2026-11-26 08:14:23] ERROR: Failed downloading geofuse-debug.apk from release v1.0.0.
+Run #7 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834344004
+Run #6 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834222706
+Run #5 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45832195293
+completed|failure|https://github.com/efren1995/geofuse/actions/runs/45834344004
+Release v1.0.0 has no uploaded APK assets yet (message: Not Found)
+[2026-11-26 08:14:35] Downloading geofuse-debug.apk to /sdcard/Download/geofuse-debug.apk...
+curl: (3) URL rejected: Malformed input to a URL function
+[2026-11-26 08:14:35] ERROR: Failed downloading geofuse-debug.apk from release v1.0.0.
+Run #7 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834344004
+Run #6 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834222706
+Run #5 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45832195293
+completed|failure|https://github.com/efren1995/geofuse/actions/runs/45834344004
+Release v1.0.0 has no uploaded APK assets yet (message: Not Found)
+[2026-11-26 08:14:47] Downloading geofuse-debug.apk to /sdcard/Download/geofuse-debug.apk...
+curl: (3) URL rejected: Malformed input to a URL function
+[2026-11-26 08:14:47] ERROR: Failed downloading geofuse-debug.apk from release v1.0.0.
+Run #7 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834344004
+Run #6 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834222706
+Run #5 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45832195293
+completed|failure|https://github.com/efren1995/geofuse/actions/runs/45834344004
+Release v1.0.0 has no uploaded APK assets yet (message: Not Found)
+[2026-11-26 08:14:59] Downloading geofuse-debug.apk to /sdcard/Download/geofuse-debug.apk...
+curl: (3) URL rejected: Malformed input to a URL function
+[2026-11-26 08:15:00] ERROR: Failed downloading geofuse-debug.apk from release v1.0.0.
+Run #7 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834344004
+Run #6 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834222706
+Run #5 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45832195293
+completed|failure|https://github.com/efren1995/geofuse/actions/runs/45834344004
+Release v1.0.0 has no uploaded APK assets yet (message: Not Found)
+[2026-11-26 08:15:11] Downloading geofuse-debug.apk to /sdcard/Download/geofuse-debug.apk...
+curl: (3) URL rejected: Malformed input to a URL function
+[2026-11-26 08:15:11] ERROR: Failed downloading geofuse-debug.apk from release v1.0.0.
+Run #7 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834344004
+Run #6 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834222706
+Run #5 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45832195293
+completed|failure|https://github.com/efren1995/geofuse/actions/runs/45834344004
+Release v1.0.0 has no uploaded APK assets yet (message: Not Found)
+[2026-11-26 08:15:23] Downloading geofuse-debug.apk to /sdcard/Download/geofuse-debug.apk...
+curl: (3) URL rejected: Malformed input to a URL function
+[2026-11-26 08:15:23] ERROR: Failed downloading geofuse-debug.apk from release v1.0.0.
+Run #7 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834344004
+Run #6 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834222706
+Run #5 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45832195293
+completed|failure|https://github.com/efren1995/geofuse/actions/runs/45834344004
+Release v1.0.0 has no uploaded APK assets yet (message: Not Found)
+[2026-11-26 08:15:34] Downloading geofuse-debug.apk to /sdcard/Download/geofuse-debug.apk...
+curl: (3) URL rejected: Malformed input to a URL function
+[2026-11-26 08:15:35] ERROR: Failed downloading geofuse-debug.apk from release v1.0.0.
+Run #7 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834344004
+Run #6 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834222706
+Run #5 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45832195293
+completed|failure|https://github.com/efren1995/geofuse/actions/runs/45834344004
+Release v1.0.0 has no uploaded APK assets yet (message: Not Found)
+[2026-11-26 08:15:46] Downloading geofuse-debug.apk to /sdcard/Download/geofuse-debug.apk...
+curl: (3) URL rejected: Malformed input to a URL function
+[2026-11-26 08:15:46] ERROR: Failed downloading geofuse-debug.apk from release v1.0.0.
+Run #7 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834344004
+Run #6 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834222706
+Run #5 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45832195293
+completed|failure|https://github.com/efren1995/geofuse/actions/runs/45834344004
+Release v1.0.0 has no uploaded APK assets yet (message: Not Found)
+[2026-11-26 08:15:58] Downloading geofuse-debug.apk to /sdcard/Download/geofuse-debug.apk...
+curl: (3) URL rejected: Malformed input to a URL function
+[2026-11-26 08:15:58] ERROR: Failed downloading geofuse-debug.apk from release v1.0.0.
+Run #7 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834344004
+Run #6 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834222706
+Run #5 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45832195293
+completed|failure|https://github.com/efren1995/geofuse/actions/runs/45834344004
+Release v1.0.0 has no uploaded APK assets yet (message: Not Found)
+[2026-11-26 08:16:10] Downloading geofuse-debug.apk to /sdcard/Download/geofuse-debug.apk...
+curl: (3) URL rejected: Malformed input to a URL function
+[2026-11-26 08:16:10] ERROR: Failed downloading geofuse-debug.apk from release v1.0.0.
+Run #7 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834344004
+Run #6 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834222706
+Run #5 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45832195293
+completed|failure|https://github.com/efren1995/geofuse/actions/runs/45834344004
+Release v1.0.0 has no uploaded APK assets yet (message: Not Found)
+[2026-11-26 08:16:21] Downloading geofuse-debug.apk to /sdcard/Download/geofuse-debug.apk...
+curl: (3) URL rejected: Malformed input to a URL function
+[2026-11-26 08:16:21] ERROR: Failed downloading geofuse-debug.apk from release v1.0.0.
+Run #7 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834344004
+Run #6 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834222706
+Run #5 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45832195293
+completed|failure|https://github.com/efren1995/geofuse/actions/runs/45834344004
+Release v1.0.0 has no uploaded APK assets yet (message: Not Found)
+[2026-11-26 08:16:33] Downloading geofuse-debug.apk to /sdcard/Download/geofuse-debug.apk...
+curl: (3) URL rejected: Malformed input to a URL function
+[2026-11-26 08:16:33] ERROR: Failed downloading geofuse-debug.apk from release v1.0.0.
+Run #7 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834344004
+Run #6 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834222706
+Run #5 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45832195293
+completed|failure|https://github.com/efren1995/geofuse/actions/runs/45834344004
+Release v1.0.0 has no uploaded APK assets yet (message: Not Found)
+[2026-11-26 08:16:45] Downloading geofuse-debug.apk to /sdcard/Download/geofuse-debug.apk...
+curl: (3) URL rejected: Malformed input to a URL function
+[2026-11-26 08:16:45] ERROR: Failed downloading geofuse-debug.apk from release v1.0.0.
+Run #7 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834344004
+Run #6 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45834222706
+Run #5 | Build GeoFuse APK | status=completed | conclusion=failure | https://github.com/efren1995/geofuse/actions/runs/45832195293
+completed|failure|https://github.com/efren1995/geofuse/actions/runs/45834344004
+Release v1.0.0 has no uploaded APK assets yet (message: Not Found)
+[2026-11-26 08:16:57] Downloading geofuse-debug.apk to /sdcard/Download/geofuse-debug.apk...
+curl: (3) URL rejected: Malformed input to a URL function
+[2026-11-26 08:16:57] ERROR: Failed downloading geofuse-debug.apk from release v1.0.0.

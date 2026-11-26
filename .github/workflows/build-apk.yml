@@ -41,7 +41,20 @@ jobs:
 
       - name: Build debug APK
         working-directory: android
-        run: gradle assembleDebug --no-daemon --stacktrace
+        run: |
+          if [ -f "./gradlew" ]; then
+            chmod +x ./gradlew || true
+            ./gradlew assembleDebug --no-daemon --stacktrace
+          else
+            if command -v gradle >/dev/null 2>&1; then
+              gradle wrapper --no-daemon || true
+            fi
+            if [ -x "./gradlew" ]; then
+              ./gradlew assembleDebug --no-daemon --stacktrace
+            else
+              gradle assembleDebug --no-daemon --stacktrace
+            fi
+          fi
 
       - name: Verify and rename APK
         run: |

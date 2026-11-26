@@ -1,0 +1,2 @@
+rootProject.name = "GeoFuse"
+include ':app'

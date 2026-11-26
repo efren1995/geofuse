@@ -1,0 +1,17 @@
+webrtc: yes
+webrtcAddress: :8889
+webrtcLocalUDPAddress: :8189
+
+paths:
+  cam_01:
+    source: publisher
+  cam_02:
+    source: publisher
+  cam_03:
+    source: publisher
+  cam_04:
+    source: publisher
+  cam_05:
+    source: publisher
+  cam_06:
+    source: publisher
